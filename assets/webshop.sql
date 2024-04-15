@@ -6,12 +6,11 @@ SET time_zone = "+00:00";
 
 /*
  TODO:
-
  - product (id, category_id, price, name, description, image)
  - category (id, name)
  - customer (id, email, password, salt, street, number, number_add, city, postal, country)
- - customer (id, email, password, salt, street, number, number_add, city, postal, country)
 
+ 
  */
 
 
